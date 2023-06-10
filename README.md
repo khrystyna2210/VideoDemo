@@ -2,4 +2,5 @@
  ## Description
  VideoDemo App is simple app that play video.
 ## Screenshots
-![Безіменний](https://github.com/khrystyna2210/BasicFrenchPhrases/assets/34044397/e641e54e-ac26-46d3-b979-bdfaba39327a)
+![2](https://github.com/khrystyna2210/VideoDemo/assets/34044397/78622d77-d136-446b-a987-53a681f1fff6)
+
